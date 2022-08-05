@@ -44,3 +44,5 @@ int cantidad_letras(int letras)     // esta funcion esta para detectar el enter 
 
 
 
+
+
